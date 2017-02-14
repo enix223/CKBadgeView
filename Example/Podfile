@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+
+target 'CKBadgeViewExample' do  
+    
+    pod 'CKBadgeView', :path => '../CKBadgeView.podspec'
+
+end

@@ -1,0 +1,16 @@
+PODS:
+  - CKBadgeView (0.0.1)
+
+DEPENDENCIES:
+  - CKBadgeView (from `../CKBadgeView.podspec`)
+
+EXTERNAL SOURCES:
+  CKBadgeView:
+    :path: ../CKBadgeView.podspec
+
+SPEC CHECKSUMS:
+  CKBadgeView: f154f98e22d39a7dc815aeb58e0c51acb6891213
+
+PODFILE CHECKSUM: b9f4d6ff59178fd148aaf050513c922999a98f2f
+
+COCOAPODS: 1.2.0
