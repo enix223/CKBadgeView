@@ -9,10 +9,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/enix223/CKBadgeView"
   s.license      = "MIT"
-
-
   s.author             = { "Enix Yu" => "enix223@163.com" }
-  s.social_media_url   = "http://twitter.com/enixyu"
 
   s.platform     = :ios
   s.platform     = :ios, "6.0"
