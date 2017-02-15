@@ -9,6 +9,8 @@ Just one line of code, then you can add a badge to any UIView.
 [view addBadge];
 ```
 
+> *Note: when calling the `addBadge` method, a dynamic property named "badgeLayer" will be added to the UIView caller instance, please make sure your UIView class did not contains any property with the same name.*
+
 and remote the badge with another line:
 
 ```objc
